@@ -1,4 +1,4 @@
-# MusicBox_Demo
+# MusicPlayer_Demo
 
 #### 介绍
 使用Android Studio 利用Service和broadcast尝试写一个音乐盒的demo
